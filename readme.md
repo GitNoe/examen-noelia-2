@@ -23,4 +23,4 @@
 
 ## Pantalla
 
-![]()
+![Imagen](../examen-noelia-2/img/inicio.png)
