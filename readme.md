@@ -21,6 +21,10 @@
 7. Añadir y Push repositorio a la nube mediante Github Desktop, si hay cambios hacer de nuevo commit y push
 8. Imprimir la pantalla y el readme.md
 
+## Resultado
+
+Página usable, accesible y responsive con 2 elementos templates hechos con js y un formulario completo de html con css accesible por teclado.
+
 ## Pantalla
 
 ![Imagen](../examen-noelia-2/img/inicio.png)
